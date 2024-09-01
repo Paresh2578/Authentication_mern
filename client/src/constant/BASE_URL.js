@@ -1,0 +1,1 @@
+export const BASE_URL_server = "http://localhost:5447"
